@@ -17,5 +17,5 @@ Later on, the "Meraki-Deployments-App" interface may be a good user friendly int
 ![User Interface](./documentation/netbox_demo.PNG)
 
 ### Be aware
-* This is for quick testing purpose, some security information is writenn in clear text,/
+* This is for quick testing purpose, some security information is writenn in clear text,\
   environment is on local pc, so it is not a concern at the moment.

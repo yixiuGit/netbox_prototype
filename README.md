@@ -14,7 +14,7 @@ Later on, the "Meraki-Deployments-App" interface may be a good user friendly int
 2. Open website using http://127.0.0.1:500
 3. Select/enter required information and click "Submit" button
 
-![User Interface](.documentation/netbox_demo.PNG)
+![User Interface](./documentation/netbox_demo.PNG)
 
 ### Be aware
 * This is for quick testing purpose, some security information is writenn in clear text,/
